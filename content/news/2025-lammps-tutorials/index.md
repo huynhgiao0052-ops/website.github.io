@@ -6,23 +6,23 @@ image:
   caption: LAMMPStutorials
   focal_point: Smart
 slides: example
-summary: The content of lammpstutorials.github.io has just been published in LiveCoMS
+summary: The content of lammpstutorials.github.io has just been published in my favorite journal, the Living Journal of Computational Molecular Science (LiveCoMS).
 tags:
 - Outreach
-title: The content of lammpstutorials.github.io has just been published in LiveCoMS
+title: LAMMPS Tutorials has just been published
 links:
   - icon_pack: fas
     icon: scroll
     name: Website
-    url: 'https://mdcourse.github.io/'
+    url: 'https://lammpstutorials.github.io/'
   - icon_pack: fab
     icon: github
     name: Source
-    url: 'https://github.com/mdcourse'
+    url: 'https://github.com/lammpstutorials'
   - icon_pack: fab
     icon: github
     name: Source
-    url: 'https://github.com/mdcourse/python-codes'
+    url: 'https://livecomsjournal.org/index.php/livecoms/article/view/v6i1e3037'
 type: "news"
 layout: "single"
 ---
