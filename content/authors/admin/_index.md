@@ -3,9 +3,8 @@
 title: Simon Gravelle
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
-
+first_name: Giao
+last_name: Nguyễn
 # Status emoji
 status:
   icon:
@@ -14,7 +13,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: ?????
 
 # Organizations/Affiliations to show in About widget
 organizations:
