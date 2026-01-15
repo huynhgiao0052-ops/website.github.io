@@ -3,7 +3,7 @@ active: true
 widget: portfolio
 headless: true
 weight: 20
-title: News
+title: About me
 subtitle: ''
 content:
   page_type: news
@@ -11,9 +11,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Job
+    - name: Nghề nghiệp
       tag: Job
-    - name: Personal
+    - name: Cá nhân
       tag: Personal
     - name: Outreach
       tag: Outreach
